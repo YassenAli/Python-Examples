@@ -5,27 +5,27 @@ This repository contains various Python scripts and examples that were developed
 ## Repository Structure
 
 Python Examples/
-├── AllPrimesUsingFunctions.py
-├── convert from 2 lists to dict.py
-├── Encrypt and decrypt to small char.py
-├── Encrypt and decrypt.py
-├── getting the values in a dictionary without the keys.py
-├── If-else.py
-├── file_examples/
-│   ├── file
-│   ├── file_example1.py
-│   ├── file_example2.py
-│   ├── file_example3.py
-└── screen of python examples/
-    ├── find-prime.png
-    ├── From fahrenheit to celsius.png
-    ├── greeting message.png
-    ├── num^1-to-num^10.png
-    ├── reverse in python.png
-    ├── reverse string and if it palindrome.png
-    ├── ticket price.png
-    ├── welcoming him if friend and greeting him if not friend.png
-    └── Write_an_algorithm_to_delete_an_element_A[p]_from_an_array_segment_A[m...n].png
+- AllPrimesUsingFunctions.py
+- convert from 2 lists to dict.py
+- Encrypt and decrypt to small char.py
+- Encrypt and decrypt.py
+- getting the values in a dictionary without the keys.py
+- If-else.py
+- file_examples/
+   - file
+   - file_example1.py
+   - file_example2.py
+   - file_example3.py
+- screen of python examples/
+    - find-prime.png
+    - From fahrenheit to celsius.png
+    - greeting message.png
+    - num^1-to-num^10.png
+    - reverse in python.png
+    - reverse string and if it palindrome.png
+    - ticket price.png
+    - welcoming him if friend and greeting him if not friend.png
+    - Write_an_algorithm_to_delete_an_element_A[p]_from_an_array_segment_A[m...n].png
 
 ## Description of Scripts
 
